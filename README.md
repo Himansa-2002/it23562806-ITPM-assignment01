@@ -4,8 +4,8 @@
 Automated Testing for Singlish to Sinhala Transliteration System
 
 ##  Repository
-
-
+ https://github.com/Himansa-2002/it23562806-ITPM-assignment01
+ 
 ---
 
 ##  Project Structure
